@@ -2,3 +2,4 @@ mbari_315k_yolov8.pt
 whoi_download.nc
 .env
 .ipynb_checkpoints/
+session_files/
