@@ -1,5 +1,9 @@
-mbari_315k_yolov8.pt
-whoi_download.nc
 .env
 .ipynb_checkpoints/
+__pycache__
+.vscode/
+mbari_315k_yolov8.pt
+whoi_download.nc
 session_files/
+session_4_roms/ooi-test/
+session_6_satellite/pace_mab_comparison
